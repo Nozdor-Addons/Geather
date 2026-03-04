@@ -1,0 +1,9 @@
+## Interface: 30300
+## Title: GeatherDB_Nozdor
+## Notes: Nozdor GathererDB
+## Author: Альтруист
+## Version: 1.0.0
+## RequiredDeps: Gatherer
+
+Nozdor_Main.lua
+Nozdor_Data.lua
